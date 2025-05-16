@@ -1,0 +1,12 @@
+citHeader("To cite the package in publications, please use:")
+
+bibentry(bibtype="Article",
+         title = "Gradient boosting for generalised additive mixed models",
+         author = c(person("Lars", "Knieper"), person("Torsten", "Hothorn"), person("Elisabeth", "Bergherr"), person("Colin", "Griesbach")),
+         journal      = "Statistics and Computing",
+         year         = "2025",
+         volume       = "35",
+         number       = "4",
+         pages        = "1--20",
+         url 	      = "https://doi.org/10.1007/s11222-025-10612-y"
+         )
